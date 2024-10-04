@@ -21,6 +21,7 @@ public class Task_Pattern_2_2 {
 
         System.out.println("--------------------LeftHandPyramid---------------- ");
         
+        
         System.out.println("        *");
         System.out.println("      * *");
         System.out.println("    * * *");
