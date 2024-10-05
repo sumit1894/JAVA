@@ -1,3 +1,4 @@
+package Variables_DataType_Input_3;
 import java.util.Scanner;
 
 public class input_Task_3_5 {

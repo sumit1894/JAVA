@@ -1,3 +1,4 @@
+package Variables_DataType_Input_3;
 import java.util.Scanner;
 
 public class User_Input_3_3 {

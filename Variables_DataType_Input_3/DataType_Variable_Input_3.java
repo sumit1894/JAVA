@@ -1,3 +1,4 @@
+package Variables_DataType_Input_3;
 public class DataType_Variable_Input_3 {
 
 public static void main(String args []){

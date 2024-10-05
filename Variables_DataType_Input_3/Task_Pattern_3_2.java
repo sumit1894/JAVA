@@ -1,3 +1,4 @@
+package Variables_DataType_Input_3;
 public class Task_Pattern_3_2 {
     public static void main(String args[]) {
 

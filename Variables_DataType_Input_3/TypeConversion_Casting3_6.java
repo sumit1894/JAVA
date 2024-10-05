@@ -1,6 +1,7 @@
+package Variables_DataType_Input_3;
 public class TypeConversion_Casting3_6 {
     public static void main(String args[]){
-        
+
         int num=100;
         System.out.println(num);
 
