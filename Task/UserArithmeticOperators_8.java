@@ -2,7 +2,7 @@ package Task;
 
 import java.util.Scanner;
 
-public class UserArithmeticOperators {
+public class UserArithmeticOperators_8 {
     public static void main(String args[]) {
         
         //! Create a program that takes two numbers from the user and performs arithmetic operations on them.
