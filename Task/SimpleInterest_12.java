@@ -6,16 +6,18 @@ import java.util.Scanner;
 // t	=	
 
 public class SimpleInterest_12 {
-    public static void main(String args[]){
-        Scanner InputValue=new Scanner(System.in);
+    public static void main(String args[]) {
+        Scanner InputValue = new Scanner(System.in);
         System.out.print("Enter a initial principal balance :- ");
-        float p=InputValue.nextFloat();
+        float p = InputValue.nextFloat();
         System.out.print("Enter a annual interest rate value:- ");
-        float r=InputValue.nextFloat();
+        float r = InputValue.nextFloat();
         System.out.println("Enter time (in years):- ");
-        float t= InputValue.nextFloat();
+        float t = InputValue.nextFloat();
 
-        System.out.println("Simple Interest is:- "+  (p * t * r)/100);
+        System.out.println("Simple Interest is:- " + (p * t * r) / 100);
+
+        InputValue.close();
 
     }
 }
