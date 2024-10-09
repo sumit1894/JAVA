@@ -9,7 +9,7 @@ public class leftShift_25 {
         System.out.print("Enter a number ");
         int inp1=input.nextInt();
 
-        System.out.println(inp1<<1);
+        System.out.println(inp1<<1);  //(inp1*2)
         input.close();
     }
 }
