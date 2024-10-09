@@ -9,7 +9,7 @@ public class rightShift_26 {
         System.out.print("Enter a number ");
         int inp1=input.nextInt();
 
-        System.out.println(inp1>>1); // -(*2)
+        System.out.println(inp1>>1); // (inp1/2)
         input.close();
     }
 }
