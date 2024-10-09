@@ -12,6 +12,6 @@ public class bitwiseOR_22 {
         int inp2=input.nextInt();
 
         System.out.println(inp1 | inp2);
-
+        input.close();
     }
 }
