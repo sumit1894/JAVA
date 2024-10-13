@@ -44,9 +44,8 @@ public class Array_5_1 {
 
         String[] names= new String[5];
         names[0]="John";    
-        
-
         System.out.println(names[0]);
+        
 
         String[] name={"John","Doe","Jane","Doe","Alice"};
         System.out.println(name[4]);
