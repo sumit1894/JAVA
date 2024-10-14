@@ -20,4 +20,16 @@ public class ArrayUtility_40 {
         }
         return nums;
     }
+
+
+    public static void diaplayArray(int[] nums){
+
+        int i=0;
+        while(i<nums.length){
+            System.err.print(nums[i]+" ");
+            i++;
+        }
+        System.err.println();
+
+    }
 }
