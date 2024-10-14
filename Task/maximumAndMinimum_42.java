@@ -11,10 +11,6 @@ public class maximumAndMinimum_42 {
 
         int minimum=minimum(arr);
         System.out.println("mininum number in an array is: "+minimum);
-
-
-
-
     }
 
     public static int maximun(int[] arr){
