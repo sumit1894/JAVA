@@ -1,6 +1,7 @@
 package Task;
 
 public class maximumAndMinimum_42 {
+    //! Create a program to find number of occurrences of an element in an array. 
     public static void main(String[] args) {
 
         int[] arr=ArrayUtility_40.inputArray();
