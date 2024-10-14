@@ -1,6 +1,7 @@
 package Task;
 
 public class SumAndAverage_40 {
+    //! Create a program to find the sum and average of all elements in an array.
 
     public static void main(String[] args) {
 
