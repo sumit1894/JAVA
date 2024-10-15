@@ -17,6 +17,7 @@ public class Two_D_Element_Search_48 {
         } else {
             System.out.println("Element is not Found");
         }
+        inp.close();
     }
 
     public static boolean search(int[][] arr, int num) {
